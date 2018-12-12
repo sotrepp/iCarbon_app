@@ -6335,6 +6335,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/dist/images/bg2.png": {
+		"ft": 32768,
+		"iS": 600372,
+		"oA": 0,
+		"oAP": "/dist/images/bg2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist/images/bike_challenge.png": {
 		"ft": 32768,
 		"iS": 104176,
@@ -6412,6 +6423,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/dist/images/healthy_tree_ground.png": {
+		"ft": 32768,
+		"iS": 74291,
+		"oA": 0,
+		"oAP": "/dist/images/healthy_tree_ground.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist/images/house_add_icon.png": {
 		"ft": 32768,
 		"iS": 466,
@@ -6456,6 +6478,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/dist/images/monday.png": {
+		"ft": 32768,
+		"iS": 15280,
+		"oA": 0,
+		"oAP": "/dist/images/monday.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist/images/netflix_challenge.png": {
 		"ft": 32768,
 		"iS": 51593,
@@ -6483,6 +6516,17 @@
 		"iS": 66473,
 		"oA": 0,
 		"oAP": "/dist/images/red_tree.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/red_tree_ground.png": {
+		"ft": 32768,
+		"iS": 323427,
+		"oA": 0,
+		"oAP": "/dist/images/red_tree_ground.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6544,6 +6588,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/dist/images/wednesday.png": {
+		"ft": 32768,
+		"iS": 15527,
+		"oA": 0,
+		"oAP": "/dist/images/wednesday.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist/images/yesterday_icon.png": {
 		"ft": 32768,
 		"iS": 17296,
@@ -6586,6 +6641,13 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/dist/yesterday.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/dist/yesterday.html",
+		"oF": 0
+		},
 	"/src/images/award_icon.png": {
 		"ft": 32768,
 		"iS": 3054,
@@ -6618,6 +6680,17 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 89
+		},
+	"/src/images/bg2.png": {
+		"ft": 32768,
+		"iS": 813462,
+		"oA": 0,
+		"oAP": "/dist/images/bg2.png",
+		"oF": 2,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"/src/images/bike_challenge.png": {
 		"ft": 32768,
@@ -6695,6 +6768,17 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 89
+		},
+	"/src/images/healthy_tree_ground.png": {
+		"ft": 32768,
+		"iS": 355708,
+		"oA": 0,
+		"oAP": "/dist/images/healthy_tree_ground.png",
+		"oF": 2,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"/src/images/house_add_icon.png": {
 		"ft": 32768,
@@ -6907,8 +6991,8 @@
 	"creationDate": 565726525.03859496,
 	"displayValue": "iCarbon_app",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "/bower_components/bootstrap/site/docs/4.1/assets/img/favicons/apple-touch-icon.png",
-	"iconImageWasSetByUser": 0
+	"iconImageName": "meme-lotr",
+	"iconImageWasSetByUser": 1
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

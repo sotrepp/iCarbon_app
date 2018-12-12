@@ -8,22 +8,25 @@
     <meta name="description" content="The HTML5 Herald">
     <meta name="author" content="SitePoint">
     <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
-
-    <link rel="stylesheet" href="styles/main.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles/main.css">
 
   </head>
 
   <body>
-    <!-- HEADER -->
+
     <div class="container-fluid">
-      <div class="row">
+
+      <!-- HEADER -->
+      <div class="row" id="row_header">
         <div class="col-xs-3">
-          <img src="images/yesterday_icon.png" width="110%;">
+          <a href="yesterday.html">
+            <img src="images/yesterday_icon.png" width="110%;">
+          </a>
         </div>
         <div class="col-xs-6">
-          <h1 id="col-xs-6__h1">iCarbon</h1>
+          <h1 class="col-xs-6__h1">iCarbon</h1>
         </div>
         <div class="col-xs-3">
           <img src="images/tomorrow_icon.png" width="110%;">
@@ -31,25 +34,31 @@
       </div>
       <!-- END HEADER -->
 
-      <div class="row">
-        <div class="col-xs-12">
-          <h2 class="col-xs-12__h2"> WEDNESDAY</h2>
-          <h3 class="col-xs-12__h3"> DECEMBER 19th</h3>
-        </div>
-      </div>
+      <!-- START MAIN CONTENT -->
+      <div class="main_content">
 
-      <div class="row">
-        <div class="col-xs-12">
-          <img src="images/healthy_tree.png" width="60%;">
+        <div class="row">
+          <div class="col-xs-12">
+            <h2 class="col-xs-12__h2"> WEDNESDAY</h2>
+            <h3 class="col-xs-12__h4"> DECEMBER 19th</h3>
+          </div>
         </div>
-      </div>
 
-      <div class="row">
-        <div class="col-xs-12">
-          <h4 class="col-xs-12__h4"> 6.3 of 8.0 miles</h2>
-          <h4 class="col-xs-12__h4"> 23.4 of 30 kWh</h3>
+        <div class="row">
+          <div class="col-xs-12">
+            <img class="tree" src="images/healthy_tree_ground.png" width="60%;">
+          </div>
         </div>
-      </div>
+
+        <div class="row">
+          <div class="col-xs-12" id="bottom_bar">
+            <h4 class="col-xs-12__h4"> <b>6.3</b> of 8.0 miles</h4><br>
+            <h4 class="col-xs-12__h4"> <b>23.4</b> of 30 kWh</h4>
+          </div>
+        </div>
+
+       </div>
+       <!-- END MAIN CONTENT -->
 
 
       <!-- START NAV BAR -->
@@ -58,31 +67,31 @@
           <li>
             <a href="history.html">
               <img src="images/tree_icon.png"><br>
-              History
+              <p class="nav_text"> History </p>
             </a>
           </li>
           <li>
             <a href="challenges.html">
               <img src="images/star_icon.png"><br>
-              Challenges
+              <p class="nav_text">Challenges</p>
             </a>
           </li>
           <li>
             <a href="awards.html">
               <img src="images/award_icon.png"><br>
-              Awards
+              <p class="nav_text">Awards</p>
             </a>
           </li>
           <li>
             <a href="sharing.html">
               <img src="images/person_icon.png"><br>
-              Sharing
+              <p class="nav_text">Sharing</p>
             </a>
           </li>
           <li>
             <a href="settings.html">
               <img src="images/menu_icon.png"><br>
-              Settings
+              <p class="nav_text">Settings</p>
             </a>
           </li>
         </ul>
@@ -90,8 +99,6 @@
       <!-- END NAV BAR -->
 
     </div>
-
-
     <script src="scripts/scripts.js"></script>
   </body>
 </html>
