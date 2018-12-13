@@ -6313,6 +6313,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/dist/images/award_icon_dark.png": {
+		"ft": 32768,
+		"iS": 2689,
+		"oA": 0,
+		"oAP": "/dist/images/award_icon_dark.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist/images/bell_icon.png": {
 		"ft": 32768,
 		"iS": 522,
@@ -6321,6 +6332,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/bell_icon_dark.png": {
+		"ft": 32768,
+		"iS": 522,
+		"oA": 0,
+		"oAP": "/dist/images/bell_icon_dark.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -6354,6 +6376,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/bike_challenge2.png": {
+		"ft": 32768,
+		"iS": 290804,
+		"oA": 0,
+		"oAP": "/dist/images/bike_challenge2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -6478,6 +6511,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/dist/images/menu_icon_dark.png": {
+		"ft": 32768,
+		"iS": 182,
+		"oA": 0,
+		"oAP": "/dist/images/menu_icon_dark.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist/images/monday.png": {
 		"ft": 32768,
 		"iS": 15280,
@@ -6511,6 +6555,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/dist/images/person_icon_dark.png": {
+		"ft": 32768,
+		"iS": 549,
+		"oA": 0,
+		"oAP": "/dist/images/person_icon_dark.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist/images/red_tree.png": {
 		"ft": 32768,
 		"iS": 66473,
@@ -6541,6 +6596,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/star_icon_dark.png": {
+		"ft": 32768,
+		"iS": 640,
+		"oA": 0,
+		"oAP": "/dist/images/star_icon_dark.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -6582,6 +6648,17 @@
 		"iS": 578,
 		"oA": 0,
 		"oAP": "/dist/images/tree_icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/tree_icon_dark.png": {
+		"ft": 32768,
+		"iS": 1797,
+		"oA": 0,
+		"oAP": "/dist/images/tree_icon_dark.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
