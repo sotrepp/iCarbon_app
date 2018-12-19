@@ -6280,6 +6280,28 @@
 		"oAP": "/dist/history.html",
 		"oF": 0
 		},
+	"/dist/images/almost_dead_tree.png": {
+		"ft": 32768,
+		"iS": 291080,
+		"oA": 0,
+		"oAP": "/dist/images/almost_dead_tree.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/almost_dead_tree_ground.png": {
+		"ft": 32768,
+		"iS": 370941,
+		"oA": 0,
+		"oAP": "/dist/images/almost_dead_tree_ground.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist/images/award.png": {
 		"ft": 32768,
 		"iS": 10897,
@@ -6296,6 +6318,83 @@
 		"iS": 11389,
 		"oA": 0,
 		"oAP": "/dist/images/award2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/award2_front.png": {
+		"ft": 32768,
+		"iS": 9193,
+		"oA": 0,
+		"oAP": "/dist/images/award2_front.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/award3.png": {
+		"ft": 32768,
+		"iS": 3531,
+		"oA": 0,
+		"oAP": "/dist/images/award3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/award3_front.png": {
+		"ft": 32768,
+		"iS": 15980,
+		"oA": 0,
+		"oAP": "/dist/images/award3_front.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/award4.png": {
+		"ft": 32768,
+		"iS": 10252,
+		"oA": 0,
+		"oAP": "/dist/images/award4.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/award4_front.png": {
+		"ft": 32768,
+		"iS": 7079,
+		"oA": 0,
+		"oAP": "/dist/images/award4_front.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/award5.png": {
+		"ft": 32768,
+		"iS": 10422,
+		"oA": 0,
+		"oAP": "/dist/images/award5.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/award5_front.png": {
+		"ft": 32768,
+		"iS": 9449,
+		"oA": 0,
+		"oAP": "/dist/images/award5_front.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -6319,8 +6418,8 @@
 		"oA": 0,
 		"oAP": "/dist/images/award_icon_dark.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -6445,6 +6544,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/dist/images/half_dead_tree2.png": {
+		"ft": 32768,
+		"iS": 281534,
+		"oA": 0,
+		"oAP": "/dist/images/half_dead_tree2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/dist/images/healthy_tree.png": {
 		"ft": 32768,
 		"iS": 68777,
@@ -6541,6 +6651,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/netflix_challenge2.png": {
+		"ft": 32768,
+		"iS": 155057,
+		"oA": 0,
+		"oAP": "/dist/images/netflix_challenge2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/dist/images/netflix_challenge3.png": {
+		"ft": 32768,
+		"iS": 242161,
+		"oA": 0,
+		"oAP": "/dist/images/netflix_challenge3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -6660,8 +6792,8 @@
 		"oA": 0,
 		"oAP": "/dist/images/tree_icon_dark.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -6694,6 +6826,16 @@
 		"oAP": "/dist/index.html",
 		"oF": 0
 		},
+	"/dist/scripts/script-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/dist/scripts/script-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/dist/settings.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -6707,6 +6849,16 @@
 		"oA": 0,
 		"oAP": "/dist/sharing.html",
 		"oF": 0
+		},
+	"/dist/styles/animate.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/dist/styles/animate-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/dist/styles/main.css": {
 		"aP": 1,
@@ -6961,8 +7113,8 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/src/js/script-min.js",
-		"oF": 0,
+		"oAP": "/dist/scripts/script-min.js",
+		"oF": 2,
 		"sC": 3,
 		"tS": 0
 		},
@@ -6975,6 +7127,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/src/scss/common/styles.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/scss/layouts/awards_page_content.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/src/scss/layouts/awards_page_content.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/scss/layouts/challenge_page_content.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/src/scss/layouts/challenge_page_content.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -6992,6 +7170,32 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/src/scss/layouts/history_page_content.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/src/scss/layouts/history_page_content.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/scss/layouts/home_page_content.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/src/scss/layouts/home_page_content.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/src/scss/layouts/menu.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7001,6 +7205,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/src/scss/layouts/menu.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/scss/layouts/settings_page_content.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/src/scss/layouts/settings_page_content.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/scss/layouts/sharing_page_content.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/src/scss/layouts/sharing_page_content.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -8149,7 +8379,7 @@
 			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
 			},
 		"no-undef": {
-			"active": 1,
+			"active": 0,
 			"optionString": "{'typeof': false}"
 			},
 		"no-undef-init": {

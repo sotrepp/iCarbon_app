@@ -36,25 +36,30 @@
       </div>
       <!-- END HEADER -->
 
-      <div class="row">
+        <!-- YESTERDAY HEADING -->
+      <div class="row" id="todayTitle">
         <div class="col-xs-12">
           <h2 class="col-xs-12__h2"> TUESDAY</h2>
           <h3 class="col-xs-12__h4"> DECEMBER 18th</h3>
         </div>
       </div>
 
+      <!-- TREE START -->
       <div class="row">
         <div class="col-xs-12">
-          <img class="treeRed" src="images/red_tree_ground.png" width="60%;">
+          <img id="todayTree" class="treeRed" src="images/almost_dead_tree_ground.png" width="60%;">
         </div>
       </div>
+      <!-- TREE END -->
 
-      <div class="row">
-        <div class="col-xs-12" id="bottom_bar">
-          <h4 class="col-xs-12__h4"> <b>2.3</b> of 8.0 miles</h4><br>
-          <h4 class="col-xs-12__h4"> <b>13.4</b> of 30 kWh</h4>
+      <!-- BOTTOM PART OF MAIN CONTENT -->
+      <div class="row navbar-fixed-bottom" id="bottom_bar">
+        <div class="col-xs-12" id="textBottomBar">
+          <h4 class="col-xs-12__h4"> <b>7.9</b> of 8.0 miles</h4><br>
+          <h4 class="col-xs-12__h4"> <b>5.4</b> of 30 kWh</h4>
         </div>
       </div>
+      <!-- END OF BOTTOM PART OF MAIN CONTENT -->
 
 
       <!-- START NAV BAR -->
@@ -95,8 +100,7 @@
       <!-- END NAV BAR -->
 
     </div>
-
-
-    <script src="scripts/scripts.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="scripts/script-min.js"></script>
   </body>
 </html>
